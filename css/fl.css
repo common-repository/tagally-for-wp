@@ -1,0 +1,19 @@
+*{margin:0;padding:0;}
+#tga_dropmenu{clear:both;position:absolute;visibility:visible;text-align:left;}
+.dpms0 a{color:#1f3a87;text-decoration:none;}
+.dpms0 a:hover{color:#F90;text-decoration:underline;}
+.dpms1,.dpms2,.dpms3{padding:3px 0 2px 5px;}
+.dpms3 li{line-height:14px;padding:3px 0;}
+.dphd{font:11px verdana,Arial,Helvetica,sans-serif;color:#003F7D;overflow:hidden;line-height:20px;}
+.dphd_title{overflow:hidden;}
+.dphd_title li{float:left;display:inline;line-height:16px;text-align:center;margin:0 2px 0 0;padding:0 !important;}
+.dphd_title li a{display:block;font-size:11px;width:90px;font-weight:700;margin:0 !important;padding:0 !important;}
+.tgdac_1{background:#9cf;color:#fff !important;}
+.tgdac_2{background:#efeff0;color:#79b6f3 !important;}
+.dphd_title li a:hover{background:#9CF;color:#fff;font-weight:700;display:block;font-size:11px;width:90px;margin:0 !important;padding:0 !important;}
+.dphd_con{display:block;overflow:hidden;width:248px;}
+.dphd_con ul{padding-left:0;list-style-position:outside;list-style-type:disc;}
+.dphd_con li{text-overflow:ellipsis;overflow:hidden;}
+.dphd_con li a:hover{background:transparent url(img/boo.gif) no-repeat scroll 0px 3px;color:#069;text-decoration:underline;}
+#tga_dpmtap{background:transparent url(img/ftap.gif) no-repeat scroll 0px 0px;}
+.dpli_a{background:transparent url(img/boo.gif) no-repeat scroll 0px 3px;}
